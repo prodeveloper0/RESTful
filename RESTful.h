@@ -7,7 +7,8 @@
 /*
  * RESTful Framework for Arduino
  * 
- * Written in 2017 by pr0ximo.
+ * Written in 2017 by pr0ximo (prodeveloper0's moniker)
+ * Published in 2019 by prodeveloper0
  * Version 0.4.1
  * 
  * Changelog
